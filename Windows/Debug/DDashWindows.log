@@ -1,0 +1,33 @@
+﻿  ddashSP.c
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(70,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(71,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(72,81): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(73,82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(78,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(79,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(94,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(95,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(90,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(91,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(92,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\SpriteHandler.h(93,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(6,30): warning C4013: 'tolower' undefined; assuming extern returning int
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(124,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(125,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(130,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(131,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(133,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(134,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(135,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(136,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(154,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(177,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\renderHeaders\StringRenderer.h(152,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\playerStructs\car.h(35,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\playerStructs\car.h(36,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\playerStructs\car.h(85,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\playerStructs\car.h(86,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\playerStructs\car.h(108,31): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\playerStructs\car.h(120,44): warning C4244: '=': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\DDashWindows\ddashSP.c(173,28): warning C4244: '=': conversion from 'time_t' to 'double', possible loss of data
+  DDashWindows.vcxproj -> C:\Users\Dygo\Documents\Visual Studio 2019\projects\DDashWindows\Debug\DDashWindows.exe
